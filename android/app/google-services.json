@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "293702570416",
+    "project_id": "shaghlny-ef694",
+    "storage_bucket": "shaghlny-ef694.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293702570416:android:15062de7dd416663ef8675",
+        "android_client_info": {
+          "package_name": "com.example.shaghlny"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293702570416-pfd04jf3f1m5odmg1jeeoto5p7c7rjt8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shaghlny",
+            "certificate_hash": "af18ad893ae510b3b7e80c955d03c3fc1f6ee241"
+          }
+        },
+        {
+          "client_id": "293702570416-uv353qrv63t143m71jha5cdt2klqtt9o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shaghlny",
+            "certificate_hash": "fb30df6adce1b94df5e7c951bb1611ef32a81a02"
+          }
+        },
+        {
+          "client_id": "293702570416-6hdpv7387r8rrsnd5jq5vhds1gegp6oe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_dRzL8drOQzJ6no1Z1s4RL7Ih24N9iAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293702570416-6hdpv7387r8rrsnd5jq5vhds1gegp6oe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
